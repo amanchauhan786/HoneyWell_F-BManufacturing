@@ -1,1 +1,15 @@
+!mkdir -p .streamlit
+%%writefile .streamlit/config.toml
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+enableXsrfProtection = false
+enableWebsocketCompression = false
 
+[theme]
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#31333F"
+font = "sans serif"
