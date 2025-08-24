@@ -8,8 +8,6 @@
 
 This project is an end-to-end machine learning system designed to predict quality anomalies in a brewery's manufacturing process in real-time. It uses a **Random Forest model** to provide actionable Quality Alerts and is demonstrated through a fully **interactive web dashboard** built with Streamlit.
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Brewery+Quality+Control+Dashboard)
-
 ## 🚀 Live Dashboard Demo
 
 You can access and interact with the live dashboard here:  
